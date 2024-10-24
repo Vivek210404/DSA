@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vivek210404/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vivek210404/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vivek210404/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Vivek210404/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vivek210404/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Vivek210404/DSA/tree/master/0229-majority-element-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Vivek210404/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Vivek210404/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vivek210404/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Vivek210404/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vivek210404/DSA/tree/master/0268-missing-number) |
 ## Hash Table
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek210404/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
