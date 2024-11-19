@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vivek210404/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Vivek210404/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vivek210404/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vivek210404/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Vivek210404/DSA/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vivek210404/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -234,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
