@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vivek210404/DSA/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/Vivek210404/DSA/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Vivek210404/DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Vivek210404/DSA/tree/master/2556-convert-the-temperature) |
 ## Hash Table
 |  |
@@ -239,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Vivek210404/DSA/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
