@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Vivek210404/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vivek210404/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Vivek210404/DSA/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Vivek210404/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vivek210404/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Vivek210404/DSA/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Binary Search
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vivek210404/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Vivek210404/DSA/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Vivek210404/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vivek210404/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vivek210404/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek210404/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek210404/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Vivek210404/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Recursion
 |  |
 | ------- |
