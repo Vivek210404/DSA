@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vivek210404/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vivek210404/DSA/tree/master/0268-missing-number) |
+| [1806-count-of-matches-in-tournament](https://github.com/Vivek210404/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/Vivek210404/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Vivek210404/DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Vivek210404/DSA/tree/master/2556-convert-the-temperature) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vivek210404/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/Vivek210404/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Vivek210404/DSA/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vivek210404/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vivek210404/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
