@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Vivek210404/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/Vivek210404/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Vivek210404/DSA/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Vivek210404/DSA/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Vivek210404/DSA/tree/master/2556-convert-the-temperature) |
 ## Hash Table
 |  |
@@ -240,10 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/Vivek210404/DSA/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vivek210404/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Vivek210404/DSA/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Vivek210404/DSA/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
