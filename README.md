@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vivek210404/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vivek210404/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vivek210404/DSA/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Vivek210404/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Vivek210404/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/Vivek210404/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Vivek210404/DSA/tree/master/2491-smallest-even-multiple) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vivek210404/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vivek210404/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek210404/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Vivek210404/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vivek210404/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Vivek210404/DSA/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Sorting
