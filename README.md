@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Vivek210404/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Vivek210404/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Vivek210404/DSA/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Vivek210404/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek210404/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek210404/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vivek210404/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
