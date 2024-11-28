@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vivek210404/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vivek210404/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek210404/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Vivek210404/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek210404/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vivek210404/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vivek210404/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vivek210404/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Vivek210404/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/Vivek210404/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivek210404/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/Vivek210404/DSA/tree/master/0742-to-lower-case) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vivek210404/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
